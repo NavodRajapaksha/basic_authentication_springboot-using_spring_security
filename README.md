@@ -1,4 +1,4 @@
-# Spring Security Starter
+# Spring Security Starter-authentication
 
 A Spring Boot project demonstrating Spring Security fundamentals including custom `AuthenticationProvider`, BCrypt password encoding, role-based authorization, and database-backed user authentication with MySQL.
 
